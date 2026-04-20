@@ -1,0 +1,501 @@
+﻿ID,Prix,Quantite,Remise,Categorie,Region,Date_Vente,Canal
+PRD-0476,905.79,18,30,Maison,Ouest,2025-04-18,Site Web
+PRD-0423,202.49,160,0,Maison,Sud,2025-04-19,Application Mobile
+PRD-0190,454.13,85,30,Jouets,Bretagne,2025-04-21,Site Web
+PRD-0244,935.36,121,15,Alimentation,Est,2025-04-22,Site Web
+PRD-0118,642.56,70,15,Sport,Normandie,2025-04-23,Application Mobile
+PRD-0293,640.74,55,0,Vêtements,PACA,2025-04-23,Application Mobile
+PRD-0205,490.78,196,20,Maison,Centre,2025-04-24,Boutique
+PRD-0426,251.54,161,15,Alimentation,Nord,2025-04-25,Application Mobile
+PRD-0132,67.35,116,30,Maison,Île-de-France,2025-04-26,Application Mobile
+PRD-0242,587.84,147,30,Livres,Nord,2025-04-26,Site Web
+PRD-0499,472.72,140,20,Beauté,Centre,2025-04-27,Boutique
+PRD-0265,835.41,22,30,Jouets,Nord,2025-04-27,Boutique
+PRD-0380,849.54,72,30,Jouets,Île-de-France,2025-04-27,Boutique
+PRD-0156,232.45,133,20,Alimentation,PACA,2025-04-28,Application Mobile
+PRD-0124,535.05,112,10,Alimentation,Île-de-France,2025-04-28,Application Mobile
+PRD-0285,493.65,159,15,Maison,Est,2025-04-28,Application Mobile
+PRD-0109,459.19,163,5,Jouets,Sud,2025-04-28,Boutique
+PRD-0256,996.14,19,15,Alimentation,Nord,2025-04-28,Boutique
+PRD-0399,658.16,74,0,Jouets,Est,2025-04-29,Application Mobile
+PRD-0414,232.39,1,30,Alimentation,PACA,2025-04-29,Site Web
+PRD-0394,552.46,42,0,Livres,Bretagne,2025-04-30,Site Web
+PRD-0337,230.21,153,50,Alimentation,Ouest,2025-04-30,Site Web
+PRD-0408,520.3,65,0,Livres,Nord,2025-05-01,Application Mobile
+PRD-0343,33.43,120,30,Livres,Île-de-France,2025-05-01,Site Web
+PRD-0004,230.98,101,5,Alimentation,PACA,2025-05-03,Boutique
+PRD-0349,645.07,129,10,Électronique,Ouest,2025-05-03,Boutique
+PRD-0428,15.49,195,30,Sport,Ouest,2025-05-04,Boutique
+PRD-0007,893.26,170,20,Beauté,Est,2025-05-04,Application Mobile
+PRD-0253,81.82,17,10,Beauté,Sud,2025-05-06,Boutique
+PRD-0222,583.39,59,10,Vêtements,Ouest,2025-05-07,Application Mobile
+PRD-0496,682.35,86,10,Vêtements,PACA,2025-05-08,Application Mobile
+PRD-0164,906.37,195,10,Sport,Bretagne,2025-05-08,Application Mobile
+PRD-0112,270.76,40,20,Jouets,Île-de-France,2025-05-08,Site Web
+PRD-0288,101.38,190,0,Livres,Centre,2025-05-09,Boutique
+PRD-0259,272.55,176,30,Beauté,Est,2025-05-10,Boutique
+PRD-0035,384.75,90,50,Maison,Est,2025-05-11,Application Mobile
+PRD-0085,405.41,27,30,Maison,Nord,2025-05-11,Application Mobile
+PRD-0389,940.96,105,20,Beauté,Est,2025-05-13,Site Web
+PRD-0070,275.06,28,20,Jouets,Nord,2025-05-14,Application Mobile
+PRD-0388,426.24,90,5,Alimentation,Normandie,2025-05-14,Boutique
+PRD-0287,847.64,157,5,Beauté,Île-de-France,2025-05-14,Boutique
+PRD-0270,17.74,107,15,Électronique,Centre,2025-05-14,Boutique
+PRD-0044,296.49,64,50,Alimentation,Sud,2025-05-15,Boutique
+PRD-0239,598.57,126,5,Sport,Bretagne,2025-05-15,Application Mobile
+PRD-0173,477.94,24,30,Maison,Nord,2025-05-15,Application Mobile
+PRD-0415,207.14,169,50,Jouets,Normandie,2025-05-16,Application Mobile
+PRD-0160,228.02,185,0,Jouets,Nord,2025-05-16,Site Web
+PRD-0430,772.35,53,15,Électronique,Sud,2025-05-16,Application Mobile
+PRD-0029,849.02,21,20,Alimentation,Bretagne,2025-05-17,Boutique
+PRD-0453,479.93,119,20,Beauté,Normandie,2025-05-18,Application Mobile
+PRD-0489,550.67,169,50,Beauté,Centre,2025-05-19,Site Web
+PRD-0350,405.68,139,5,Beauté,PACA,2025-05-19,Site Web
+PRD-0363,610.15,59,50,Alimentation,Bretagne,2025-05-20,Application Mobile
+PRD-0411,820.24,198,5,Vêtements,Bretagne,2025-05-20,Site Web
+PRD-0479,858.16,107,15,Livres,Bretagne,2025-05-20,Application Mobile
+PRD-0361,731.26,7,5,Sport,Bretagne,2025-05-20,Application Mobile
+PRD-0500,136.35,97,0,Maison,Normandie,2025-05-21,Site Web
+PRD-0011,226.45,110,50,Sport,Sud,2025-05-21,Boutique
+PRD-0051,376.48,122,10,Électronique,Ouest,2025-05-21,Site Web
+PRD-0020,16.43,117,15,Sport,Centre,2025-05-23,Boutique
+PRD-0314,111.77,73,20,Beauté,Ouest,2025-05-24,Site Web
+PRD-0047,109.99,160,0,Vêtements,Bretagne,2025-05-25,Site Web
+PRD-0203,850.21,191,15,Jouets,Île-de-France,2025-05-25,Boutique
+PRD-0141,480.53,8,15,Maison,Centre,2025-05-25,Boutique
+PRD-0178,436.74,63,50,Maison,Île-de-France,2025-05-26,Site Web
+PRD-0347,967.22,104,0,Vêtements,PACA,2025-05-27,Application Mobile
+PRD-0417,252.39,119,30,Maison,Ouest,2025-05-28,Application Mobile
+PRD-0080,254.16,20,0,Vêtements,Centre,2025-05-28,Application Mobile
+PRD-0042,55.37,194,5,Alimentation,PACA,2025-05-28,Site Web
+PRD-0494,38.73,124,30,Alimentation,Île-de-France,2025-05-30,Application Mobile
+PRD-0406,177.99,23,20,Électronique,Est,2025-05-31,Application Mobile
+PRD-0465,544.75,121,50,Alimentation,PACA,2025-05-31,Boutique
+PRD-0362,320.54,24,50,Beauté,Nord,2025-05-31,Application Mobile
+PRD-0326,739.2,30,0,Livres,Ouest,2025-06-02,Site Web
+PRD-0472,547.19,154,50,Livres,Est,2025-06-03,Boutique
+PRD-0056,613.04,120,0,Livres,Normandie,2025-06-03,Boutique
+PRD-0034,973.38,14,50,Vêtements,Île-de-France,2025-06-04,Site Web
+PRD-0182,676.63,95,10,Jouets,Île-de-France,2025-06-05,Application Mobile
+PRD-0474,214.77,192,15,Jouets,Bretagne,2025-06-05,Site Web
+PRD-0116,871.81,134,30,Beauté,Ouest,2025-06-06,Application Mobile
+PRD-0420,82.1,49,15,Alimentation,Est,2025-06-06,Boutique
+PRD-0055,651.56,56,30,Jouets,Centre,2025-06-07,Application Mobile
+PRD-0052,217.41,172,20,Vêtements,Est,2025-06-08,Boutique
+PRD-0131,314.44,72,10,Sport,Île-de-France,2025-06-08,Site Web
+PRD-0053,274.31,30,30,Beauté,Sud,2025-06-09,Application Mobile
+PRD-0158,592.43,22,30,Vêtements,Est,2025-06-09,Application Mobile
+PRD-0294,269.34,68,5,Électronique,Île-de-France,2025-06-11,Application Mobile
+PRD-0216,995.47,135,5,Sport,Sud,2025-06-11,Application Mobile
+PRD-0273,666.75,159,20,Jouets,PACA,2025-06-11,Site Web
+PRD-0228,854.19,137,50,Maison,Sud,2025-06-11,Boutique
+PRD-0440,803.4,162,10,Livres,Ouest,2025-06-12,Boutique
+PRD-0037,831.11,167,0,Vêtements,Île-de-France,2025-06-14,Site Web
+PRD-0235,242.85,179,15,Sport,Nord,2025-06-15,Application Mobile
+PRD-0365,391.34,148,10,Alimentation,PACA,2025-06-15,Application Mobile
+PRD-0123,780.84,120,30,Sport,Est,2025-06-16,Boutique
+PRD-0181,731.79,149,50,Beauté,Normandie,2025-06-17,Site Web
+PRD-0263,375.83,145,15,Livres,Est,2025-06-17,Application Mobile
+PRD-0130,833.35,23,15,Beauté,Est,2025-06-19,Application Mobile
+PRD-0230,961.17,71,30,Maison,Ouest,2025-06-20,Boutique
+PRD-0215,957.74,195,5,Livres,Centre,2025-06-21,Application Mobile
+PRD-0460,281.85,131,30,Maison,PACA,2025-06-22,Site Web
+PRD-0098,533.82,95,10,Jouets,Île-de-France,2025-06-22,Boutique
+PRD-0404,902.17,10,50,Alimentation,Normandie,2025-06-22,Application Mobile
+PRD-0484,755.94,73,5,Maison,PACA,2025-06-23,Site Web
+PRD-0169,222.09,183,50,Livres,Ouest,2025-06-23,Site Web
+PRD-0339,465.7,146,15,Électronique,Sud,2025-06-24,Site Web
+PRD-0119,612.88,158,20,Alimentation,PACA,2025-06-24,Site Web
+PRD-0207,407.03,48,30,Jouets,Sud,2025-06-24,Site Web
+PRD-0129,879.93,63,50,Maison,PACA,2025-06-24,Application Mobile
+PRD-0377,667.6,133,50,Alimentation,Sud,2025-06-25,Boutique
+PRD-0327,338.86,140,30,Électronique,Ouest,2025-06-26,Boutique
+PRD-0444,950.54,41,20,Vêtements,Centre,2025-06-27,Application Mobile
+PRD-0382,307.32,150,0,Jouets,PACA,2025-06-27,Site Web
+PRD-0304,586.68,105,15,Électronique,Centre,2025-06-30,Boutique
+PRD-0456,641.28,40,50,Alimentation,Nord,2025-07-01,Application Mobile
+PRD-0418,480.38,106,20,Livres,Bretagne,2025-07-01,Application Mobile
+PRD-0487,424.83,151,0,Vêtements,Normandie,2025-07-01,Boutique
+PRD-0249,674.97,14,0,Jouets,Centre,2025-07-02,Application Mobile
+PRD-0257,82.53,148,10,Vêtements,Est,2025-07-02,Application Mobile
+PRD-0208,68.05,50,5,Alimentation,PACA,2025-07-03,Boutique
+PRD-0240,623.19,27,50,Sport,Sud,2025-07-03,Site Web
+PRD-0470,73.59,99,15,Beauté,Centre,2025-07-04,Site Web
+PRD-0261,882.06,39,10,Maison,Normandie,2025-07-04,Boutique
+PRD-0223,546.77,93,50,Électronique,PACA,2025-07-05,Boutique
+PRD-0107,120.44,111,50,Alimentation,Sud,2025-07-06,Application Mobile
+PRD-0266,706.5,64,10,Vêtements,Nord,2025-07-09,Application Mobile
+PRD-0057,179.43,180,50,Livres,Normandie,2025-07-09,Boutique
+PRD-0330,865.42,39,30,Beauté,Est,2025-07-11,Site Web
+PRD-0012,510.3,35,15,Maison,Nord,2025-07-11,Site Web
+PRD-0490,607.22,126,0,Maison,Ouest,2025-07-13,Application Mobile
+PRD-0114,186.87,46,15,Vêtements,Île-de-France,2025-07-14,Boutique
+PRD-0281,720.44,151,15,Alimentation,Île-de-France,2025-07-14,Site Web
+PRD-0272,306.38,153,20,Électronique,PACA,2025-07-14,Boutique
+PRD-0202,927.1,31,50,Beauté,Bretagne,2025-07-14,Boutique
+PRD-0245,212.22,123,50,Livres,Normandie,2025-07-14,Application Mobile
+PRD-0099,971.37,18,10,Jouets,PACA,2025-07-14,Application Mobile
+PRD-0251,323.02,123,15,Sport,Centre,2025-07-15,Application Mobile
+PRD-0022,701.16,87,50,Électronique,Ouest,2025-07-16,Site Web
+PRD-0075,658.88,174,30,Sport,Ouest,2025-07-17,Application Mobile
+PRD-0213,460.46,186,15,Sport,Centre,2025-07-17,Application Mobile
+PRD-0316,885.29,117,10,Électronique,Sud,2025-07-18,Boutique
+PRD-0009,427.7,22,5,Alimentation,Nord,2025-07-19,Application Mobile
+PRD-0312,217.98,74,50,Sport,Centre,2025-07-20,Site Web
+PRD-0307,315.18,153,30,Livres,Bretagne,2025-07-20,Boutique
+PRD-0458,526.09,184,0,Vêtements,Est,2025-07-20,Site Web
+PRD-0397,435.59,178,15,Électronique,Sud,2025-07-20,Application Mobile
+PRD-0346,865.71,180,0,Maison,Nord,2025-07-20,Site Web
+PRD-0328,931.51,58,10,Jouets,Est,2025-07-21,Application Mobile
+PRD-0168,672.29,166,30,Électronique,Normandie,2025-07-22,Site Web
+PRD-0308,899.99,121,5,Vêtements,Centre,2025-07-24,Application Mobile
+PRD-0488,750.04,149,0,Maison,Ouest,2025-07-27,Boutique
+PRD-0442,988.01,62,30,Vêtements,Est,2025-07-28,Application Mobile
+PRD-0095,72.89,137,50,Vêtements,Nord,2025-07-28,Boutique
+PRD-0433,184.13,34,0,Jouets,Nord,2025-07-29,Site Web
+PRD-0100,862.17,130,15,Beauté,Centre,2025-07-29,Boutique
+PRD-0360,440.22,65,20,Électronique,PACA,2025-07-30,Site Web
+PRD-0305,156.61,116,20,Sport,Normandie,2025-07-30,Application Mobile
+PRD-0290,283.91,196,10,Livres,Est,2025-07-30,Site Web
+PRD-0268,987.36,143,30,Livres,Sud,2025-07-31,Site Web
+PRD-0313,257.03,181,15,Maison,Île-de-France,2025-07-31,Site Web
+PRD-0078,464.26,184,5,Beauté,Nord,2025-08-02,Site Web
+PRD-0301,904.89,20,30,Sport,Île-de-France,2025-08-03,Boutique
+PRD-0355,970.7,11,0,Alimentation,Bretagne,2025-08-03,Site Web
+PRD-0117,305.46,167,5,Alimentation,PACA,2025-08-05,Application Mobile
+PRD-0066,778.24,30,30,Livres,Bretagne,2025-08-05,Boutique
+PRD-0038,622.33,18,20,Sport,Île-de-France,2025-08-06,Site Web
+PRD-0252,754.35,30,0,Maison,Nord,2025-08-06,Site Web
+PRD-0229,165.86,33,10,Maison,Ouest,2025-08-09,Site Web
+PRD-0234,678.46,75,0,Alimentation,Ouest,2025-08-10,Application Mobile
+PRD-0367,262.18,6,5,Vêtements,Bretagne,2025-08-10,Site Web
+PRD-0032,732.43,192,50,Maison,Bretagne,2025-08-11,Site Web
+PRD-0366,580.82,151,50,Beauté,Normandie,2025-08-11,Boutique
+PRD-0379,320.78,114,0,Vêtements,Normandie,2025-08-12,Application Mobile
+PRD-0226,588.34,4,50,Jouets,Centre,2025-08-13,Site Web
+PRD-0092,631.17,145,0,Jouets,Île-de-France,2025-08-13,Boutique
+PRD-0028,105.75,65,5,Alimentation,Est,2025-08-13,Site Web
+PRD-0441,670.9,156,20,Sport,Nord,2025-08-13,Application Mobile
+PRD-0369,11.67,173,20,Jouets,PACA,2025-08-14,Site Web
+PRD-0452,746.22,30,20,Beauté,Ouest,2025-08-14,Site Web
+PRD-0084,898.84,63,30,Maison,PACA,2025-08-14,Boutique
+PRD-0286,906.28,16,0,Électronique,Nord,2025-08-15,Site Web
+PRD-0101,21.37,166,5,Vêtements,Sud,2025-08-15,Boutique
+PRD-0059,171.77,197,50,Beauté,Est,2025-08-16,Application Mobile
+PRD-0144,873.71,47,15,Livres,Île-de-France,2025-08-17,Boutique
+PRD-0329,804.21,166,20,Alimentation,Bretagne,2025-08-18,Application Mobile
+PRD-0149,209.14,88,50,Alimentation,Nord,2025-08-18,Site Web
+PRD-0210,985.46,190,10,Alimentation,Normandie,2025-08-18,Boutique
+PRD-0110,954.28,118,5,Vêtements,Normandie,2025-08-19,Boutique
+PRD-0306,136.17,177,30,Jouets,Ouest,2025-08-19,Application Mobile
+PRD-0412,753.63,104,20,Sport,PACA,2025-08-19,Application Mobile
+PRD-0170,140.99,126,30,Vêtements,Normandie,2025-08-20,Application Mobile
+PRD-0471,413.52,49,10,Jouets,Normandie,2025-08-22,Site Web
+PRD-0425,499.43,128,50,Jouets,Normandie,2025-08-22,Boutique
+PRD-0154,522.4,143,20,Électronique,Bretagne,2025-08-23,Site Web
+PRD-0300,884.28,142,30,Beauté,Bretagne,2025-08-24,Site Web
+PRD-0155,129.79,3,10,Électronique,Est,2025-08-25,Site Web
+PRD-0077,915.4,102,10,Beauté,Île-de-France,2025-08-27,Site Web
+PRD-0093,794.16,11,0,Électronique,Nord,2025-08-30,Application Mobile
+PRD-0447,722.08,4,15,Livres,Île-de-France,2025-08-31,Application Mobile
+PRD-0473,421.62,131,15,Jouets,PACA,2025-09-01,Application Mobile
+PRD-0185,408.6,136,5,Électronique,PACA,2025-09-01,Boutique
+PRD-0469,709.35,38,5,Vêtements,Est,2025-09-01,Site Web
+PRD-0254,463.7,103,20,Électronique,Ouest,2025-09-01,Application Mobile
+PRD-0122,543.99,124,15,Vêtements,Nord,2025-09-02,Boutique
+PRD-0163,236.65,143,15,Livres,Nord,2025-09-04,Application Mobile
+PRD-0416,34.18,139,50,Électronique,Ouest,2025-09-06,Application Mobile
+PRD-0292,773.41,161,0,Électronique,Normandie,2025-09-08,Boutique
+PRD-0302,550.13,41,30,Beauté,Ouest,2025-09-08,Application Mobile
+PRD-0368,711.7,196,50,Alimentation,Nord,2025-09-09,Site Web
+PRD-0159,237.81,62,10,Vêtements,Ouest,2025-09-09,Boutique
+PRD-0036,556.52,58,15,Électronique,Île-de-France,2025-09-09,Application Mobile
+PRD-0341,797.39,113,30,Alimentation,Bretagne,2025-09-10,Application Mobile
+PRD-0140,137.11,87,30,Alimentation,Bretagne,2025-09-10,Boutique
+PRD-0299,84.49,45,10,Vêtements,Est,2025-09-10,Site Web
+PRD-0097,996.16,170,10,Jouets,Ouest,2025-09-11,Boutique
+PRD-0491,228.33,39,0,Maison,Île-de-France,2025-09-14,Boutique
+PRD-0236,128.69,33,0,Livres,Sud,2025-09-14,Site Web
+PRD-0039,863.09,200,15,Jouets,Normandie,2025-09-15,Site Web
+PRD-0148,732.63,67,15,Électronique,Centre,2025-09-15,Site Web
+PRD-0450,552.39,24,10,Alimentation,Est,2025-09-15,Site Web
+PRD-0400,470.34,170,30,Beauté,Île-de-France,2025-09-16,Site Web
+PRD-0165,861.04,62,0,Alimentation,Île-de-France,2025-09-18,Boutique
+PRD-0354,124.19,154,5,Électronique,PACA,2025-09-18,Boutique
+PRD-0438,849.85,32,0,Sport,Ouest,2025-09-19,Boutique
+PRD-0318,624.45,176,30,Sport,Centre,2025-09-19,Boutique
+PRD-0021,807.76,84,30,Jouets,Bretagne,2025-09-20,Application Mobile
+PRD-0483,358.24,1,10,Maison,Normandie,2025-09-20,Boutique
+PRD-0250,307.0,65,50,Maison,Île-de-France,2025-09-22,Application Mobile
+PRD-0196,862.74,65,30,Maison,Ouest,2025-09-22,Application Mobile
+PRD-0023,346.85,195,50,Beauté,Normandie,2025-09-24,Boutique
+PRD-0390,680.54,86,10,Beauté,Est,2025-09-24,Application Mobile
+PRD-0127,29.28,69,30,Sport,Bretagne,2025-09-24,Boutique
+PRD-0378,336.9,167,5,Beauté,Nord,2025-09-24,Application Mobile
+PRD-0370,926.32,69,0,Jouets,Bretagne,2025-09-25,Site Web
+PRD-0395,10.4,85,5,Alimentation,Normandie,2025-09-25,Boutique
+PRD-0209,385.18,56,0,Électronique,Normandie,2025-09-25,Site Web
+PRD-0060,385.66,95,30,Sport,Île-de-France,2025-09-25,Application Mobile
+PRD-0176,198.51,104,10,Livres,Ouest,2025-09-26,Boutique
+PRD-0068,41.78,42,15,Électronique,Centre,2025-09-26,Boutique
+PRD-0321,865.96,161,15,Vêtements,PACA,2025-09-27,Site Web
+PRD-0050,371.18,33,10,Maison,Bretagne,2025-09-27,Site Web
+PRD-0431,115.52,69,30,Maison,Nord,2025-09-28,Application Mobile
+PRD-0345,334.98,78,20,Maison,Sud,2025-09-28,Site Web
+PRD-0128,929.81,83,0,Vêtements,Est,2025-09-29,Boutique
+PRD-0495,342.77,89,30,Beauté,Sud,2025-10-01,Boutique
+PRD-0284,271.34,146,30,Maison,Centre,2025-10-03,Application Mobile
+PRD-0466,146.99,63,5,Livres,Île-de-France,2025-10-04,Application Mobile
+PRD-0386,302.7,24,50,Vêtements,Nord,2025-10-05,Site Web
+PRD-0134,947.48,193,5,Vêtements,Normandie,2025-10-06,Boutique
+PRD-0191,427.66,91,50,Beauté,Ouest,2025-10-08,Site Web
+PRD-0274,939.54,58,10,Alimentation,Bretagne,2025-10-09,Site Web
+PRD-0125,10.57,188,15,Alimentation,Bretagne,2025-10-09,Application Mobile
+PRD-0243,527.55,73,30,Sport,PACA,2025-10-10,Boutique
+PRD-0451,898.24,58,15,Vêtements,PACA,2025-10-11,Site Web
+PRD-0445,892.51,80,30,Livres,Ouest,2025-10-12,Application Mobile
+PRD-0338,818.42,192,50,Maison,Ouest,2025-10-12,Boutique
+PRD-0260,933.93,14,30,Vêtements,Nord,2025-10-13,Site Web
+PRD-0188,256.17,191,30,Alimentation,Île-de-France,2025-10-14,Application Mobile
+PRD-0211,272.55,124,10,Beauté,Île-de-France,2025-10-17,Application Mobile
+PRD-0356,186.78,111,50,Beauté,Sud,2025-10-18,Site Web
+PRD-0179,429.34,79,5,Alimentation,Bretagne,2025-10-18,Site Web
+PRD-0137,78.52,157,10,Livres,PACA,2025-10-19,Application Mobile
+PRD-0258,221.02,162,30,Vêtements,Normandie,2025-10-19,Boutique
+PRD-0072,943.48,7,20,Électronique,Normandie,2025-10-19,Site Web
+PRD-0498,173.39,196,5,Sport,Nord,2025-10-21,Application Mobile
+PRD-0332,274.14,37,0,Alimentation,Île-de-France,2025-10-22,Application Mobile
+PRD-0061,989.63,43,50,Vêtements,Île-de-France,2025-10-22,Application Mobile
+PRD-0081,565.75,152,15,Électronique,Bretagne,2025-10-22,Application Mobile
+PRD-0325,34.54,109,10,Jouets,Île-de-France,2025-10-22,Site Web
+PRD-0115,913.5,188,20,Jouets,Est,2025-10-23,Application Mobile
+PRD-0457,768.16,128,30,Sport,PACA,2025-10-24,Boutique
+PRD-0233,599.08,142,50,Jouets,Ouest,2025-10-26,Application Mobile
+PRD-0359,117.32,155,5,Beauté,Sud,2025-10-28,Site Web
+PRD-0344,201.2,177,30,Livres,Sud,2025-10-30,Site Web
+PRD-0121,764.89,199,5,Vêtements,Nord,2025-10-31,Site Web
+PRD-0041,707.53,11,30,Livres,Île-de-France,2025-11-01,Application Mobile
+PRD-0204,174.65,138,0,Alimentation,PACA,2025-11-01,Application Mobile
+PRD-0006,679.93,145,5,Électronique,Est,2025-11-02,Boutique
+PRD-0108,440.42,93,5,Vêtements,Est,2025-11-03,Boutique
+PRD-0027,101.82,108,0,Beauté,Nord,2025-11-03,Boutique
+PRD-0017,228.24,98,30,Alimentation,Bretagne,2025-11-03,Boutique
+PRD-0278,557.69,116,0,Alimentation,Centre,2025-11-03,Boutique
+PRD-0069,322.3,80,50,Sport,Bretagne,2025-11-03,Site Web
+PRD-0448,509.73,142,20,Vêtements,Ouest,2025-11-05,Boutique
+PRD-0146,219.68,55,10,Beauté,Sud,2025-11-06,Application Mobile
+PRD-0291,13.51,54,15,Livres,Normandie,2025-11-06,Application Mobile
+PRD-0045,88.99,52,30,Beauté,Île-de-France,2025-11-07,Application Mobile
+PRD-0005,739.11,152,30,Jouets,Est,2025-11-07,Boutique
+PRD-0482,15.84,69,10,Maison,Normandie,2025-11-09,Site Web
+PRD-0464,326.51,124,30,Alimentation,Normandie,2025-11-10,Boutique
+PRD-0322,976.44,151,15,Alimentation,Centre,2025-11-11,Site Web
+PRD-0497,410.27,142,50,Beauté,Ouest,2025-11-11,Boutique
+PRD-0138,763.0,172,20,Livres,PACA,2025-11-12,Site Web
+PRD-0269,657.44,196,5,Alimentation,Île-de-France,2025-11-13,Site Web
+PRD-0296,556.16,21,5,Sport,Normandie,2025-11-13,Site Web
+PRD-0324,882.6,51,50,Électronique,Centre,2025-11-14,Boutique
+PRD-0106,644.55,28,30,Livres,Centre,2025-11-15,Boutique
+PRD-0218,721.22,73,20,Maison,Bretagne,2025-11-16,Site Web
+PRD-0323,812.66,170,5,Vêtements,Sud,2025-11-19,Site Web
+PRD-0238,253.75,193,50,Livres,Île-de-France,2025-11-19,Boutique
+PRD-0193,257.31,117,30,Maison,Centre,2025-11-19,Boutique
+PRD-0297,433.41,41,15,Maison,Sud,2025-11-20,Boutique
+PRD-0436,59.72,179,20,Beauté,Normandie,2025-11-21,Boutique
+PRD-0079,272.23,51,30,Alimentation,Nord,2025-11-21,Application Mobile
+PRD-0331,812.64,69,10,Électronique,Bretagne,2025-11-21,Application Mobile
+PRD-0424,699.39,194,15,Alimentation,Nord,2025-11-21,Site Web
+PRD-0135,94.8,119,0,Maison,Centre,2025-11-23,Application Mobile
+PRD-0201,969.31,81,10,Vêtements,Île-de-France,2025-11-23,Site Web
+PRD-0031,809.06,5,10,Maison,Bretagne,2025-11-24,Site Web
+PRD-0279,279.62,114,30,Sport,Ouest,2025-11-25,Boutique
+PRD-0449,832.26,105,20,Alimentation,Centre,2025-11-25,Site Web
+PRD-0232,193.97,14,10,Électronique,PACA,2025-11-26,Site Web
+PRD-0432,430.89,141,15,Livres,Bretagne,2025-11-28,Application Mobile
+PRD-0407,93.95,81,20,Maison,Ouest,2025-11-28,Site Web
+PRD-0427,659.5,114,15,Beauté,Ouest,2025-11-29,Application Mobile
+PRD-0177,105.96,178,50,Livres,PACA,2025-11-29,Boutique
+PRD-0033,540.87,139,0,Jouets,Ouest,2025-11-29,Site Web
+PRD-0157,344.7,49,10,Beauté,Normandie,2025-11-30,Boutique
+PRD-0221,969.02,76,20,Beauté,Ouest,2025-11-30,Application Mobile
+PRD-0264,166.17,78,50,Maison,Centre,2025-11-30,Application Mobile
+PRD-0071,218.87,149,0,Électronique,Sud,2025-12-01,Boutique
+PRD-0413,676.07,132,0,Alimentation,Normandie,2025-12-02,Boutique
+PRD-0136,491.13,146,15,Livres,Île-de-France,2025-12-02,Application Mobile
+PRD-0166,80.15,177,20,Livres,Normandie,2025-12-03,Boutique
+PRD-0422,633.47,93,0,Vêtements,Ouest,2025-12-04,Application Mobile
+PRD-0219,163.25,26,10,Maison,Centre,2025-12-04,Application Mobile
+PRD-0090,56.65,154,30,Jouets,Île-de-France,2025-12-05,Application Mobile
+PRD-0409,636.61,83,15,Électronique,Nord,2025-12-06,Application Mobile
+PRD-0082,270.11,177,0,Livres,Bretagne,2025-12-07,Site Web
+PRD-0237,891.38,164,5,Beauté,Normandie,2025-12-09,Site Web
+PRD-0152,653.38,180,5,Livres,Ouest,2025-12-11,Boutique
+PRD-0357,962.91,189,50,Jouets,Ouest,2025-12-12,Boutique
+PRD-0477,588.24,71,0,Alimentation,Centre,2025-12-12,Boutique
+PRD-0353,939.84,21,20,Sport,Île-de-France,2025-12-12,Application Mobile
+PRD-0298,19.57,62,15,Jouets,Est,2025-12-14,Site Web
+PRD-0439,461.9,8,5,Beauté,PACA,2025-12-15,Site Web
+PRD-0111,877.09,182,0,Sport,Île-de-France,2025-12-15,Application Mobile
+PRD-0074,321.53,148,5,Beauté,Bretagne,2025-12-16,Application Mobile
+PRD-0058,731.84,66,10,Jouets,Ouest,2025-12-16,Site Web
+PRD-0351,981.34,127,5,Sport,Est,2025-12-16,Site Web
+PRD-0276,124.27,134,5,Jouets,PACA,2025-12-18,Site Web
+PRD-0172,575.33,5,20,Vêtements,Bretagne,2025-12-20,Boutique
+PRD-0214,428.78,151,5,Alimentation,Nord,2025-12-20,Site Web
+PRD-0467,238.95,117,15,Maison,Normandie,2025-12-22,Boutique
+PRD-0283,637.9,79,10,Alimentation,Bretagne,2025-12-22,Application Mobile
+PRD-0246,719.03,113,50,Livres,Bretagne,2025-12-23,Site Web
+PRD-0197,554.82,60,0,Alimentation,Centre,2025-12-23,Application Mobile
+PRD-0271,818.93,156,0,Jouets,Bretagne,2025-12-23,Boutique
+PRD-0145,428.91,125,50,Livres,Île-de-France,2025-12-23,Boutique
+PRD-0162,634.79,126,30,Électronique,Ouest,2025-12-24,Boutique
+PRD-0046,240.46,6,5,Alimentation,Ouest,2025-12-25,Site Web
+PRD-0241,425.03,4,30,Beauté,Est,2025-12-27,Site Web
+PRD-0373,744.53,196,5,Alimentation,Normandie,2025-12-28,Application Mobile
+PRD-0016,549.49,67,15,Alimentation,Nord,2025-12-28,Boutique
+PRD-0475,425.94,35,15,Vêtements,Ouest,2025-12-28,Site Web
+PRD-0372,722.24,11,50,Jouets,Nord,2025-12-28,Boutique
+PRD-0043,235.62,8,15,Maison,PACA,2025-12-29,Site Web
+PRD-0403,478.45,141,15,Jouets,PACA,2025-12-31,Site Web
+PRD-0018,593.37,84,50,Vêtements,PACA,2026-01-01,Boutique
+PRD-0348,286.33,70,50,Livres,PACA,2026-01-01,Application Mobile
+PRD-0126,330.91,152,10,Maison,PACA,2026-01-02,Site Web
+PRD-0419,851.24,14,10,Alimentation,Île-de-France,2026-01-02,Boutique
+PRD-0220,303.74,50,20,Vêtements,Bretagne,2026-01-03,Boutique
+PRD-0364,516.31,173,5,Électronique,Est,2026-01-04,Site Web
+PRD-0088,514.43,78,15,Alimentation,Est,2026-01-06,Boutique
+PRD-0054,937.29,145,15,Livres,Nord,2026-01-06,Boutique
+PRD-0310,862.1,9,30,Livres,Centre,2026-01-06,Boutique
+PRD-0217,560.21,153,50,Sport,Île-de-France,2026-01-07,Site Web
+PRD-0443,599.5,182,20,Maison,PACA,2026-01-08,Application Mobile
+PRD-0225,66.59,78,10,Maison,PACA,2026-01-08,Application Mobile
+PRD-0455,254.77,166,0,Maison,Centre,2026-01-09,Application Mobile
+PRD-0189,198.31,141,50,Vêtements,Centre,2026-01-09,Application Mobile
+PRD-0063,561.38,156,15,Jouets,Est,2026-01-12,Site Web
+PRD-0094,427.94,89,10,Livres,Normandie,2026-01-13,Application Mobile
+PRD-0048,285.19,40,15,Électronique,Sud,2026-01-13,Boutique
+PRD-0040,581.58,167,0,Jouets,Est,2026-01-15,Site Web
+PRD-0147,543.9,91,5,Beauté,Normandie,2026-01-15,Application Mobile
+PRD-0385,408.38,126,10,Alimentation,Bretagne,2026-01-15,Site Web
+PRD-0200,837.67,50,0,Maison,Bretagne,2026-01-17,Boutique
+PRD-0105,274.16,126,20,Maison,PACA,2026-01-18,Boutique
+PRD-0289,429.34,26,0,Maison,Ouest,2026-01-19,Boutique
+PRD-0015,653.39,13,30,Vêtements,Normandie,2026-01-19,Site Web
+PRD-0083,588.74,161,50,Jouets,Centre,2026-01-20,Site Web
+PRD-0393,307.94,27,10,Maison,Normandie,2026-01-20,Application Mobile
+PRD-0387,136.01,121,50,Vêtements,Centre,2026-01-20,Application Mobile
+PRD-0049,639.33,62,50,Maison,Centre,2026-01-20,Site Web
+PRD-0462,292.87,70,50,Livres,Nord,2026-01-21,Site Web
+PRD-0255,998.47,126,0,Livres,PACA,2026-01-23,Site Web
+PRD-0198,60.08,31,30,Beauté,Centre,2026-01-24,Application Mobile
+PRD-0019,811.34,55,15,Beauté,Centre,2026-01-24,Application Mobile
+PRD-0139,768.18,98,10,Alimentation,PACA,2026-01-24,Boutique
+PRD-0485,854.91,186,30,Jouets,PACA,2026-01-25,Boutique
+PRD-0454,266.6,31,15,Maison,Centre,2026-01-26,Application Mobile
+PRD-0175,809.42,57,50,Sport,PACA,2026-01-27,Application Mobile
+PRD-0401,447.74,103,0,Électronique,Sud,2026-01-27,Site Web
+PRD-0429,753.45,14,0,Vêtements,Sud,2026-01-28,Application Mobile
+PRD-0142,554.31,127,30,Livres,Bretagne,2026-01-28,Application Mobile
+PRD-0026,343.23,193,15,Beauté,Sud,2026-01-29,Application Mobile
+PRD-0010,39.5,165,50,Vêtements,Nord,2026-02-01,Application Mobile
+PRD-0030,607.69,121,20,Électronique,Normandie,2026-02-03,Application Mobile
+PRD-0103,684.89,4,20,Électronique,PACA,2026-02-05,Boutique
+PRD-0167,245.62,122,50,Maison,Est,2026-02-06,Site Web
+PRD-0376,79.27,121,10,Livres,Ouest,2026-02-08,Application Mobile
+PRD-0153,443.72,71,15,Livres,Nord,2026-02-09,Site Web
+PRD-0334,117.01,16,10,Alimentation,PACA,2026-02-10,Site Web
+PRD-0295,743.82,170,20,Beauté,Sud,2026-02-11,Site Web
+PRD-0398,584.18,127,20,Alimentation,PACA,2026-02-13,Boutique
+PRD-0342,235.32,32,5,Maison,PACA,2026-02-15,Site Web
+PRD-0468,697.01,142,15,Vêtements,Normandie,2026-02-16,Site Web
+PRD-0171,936.16,115,0,Alimentation,PACA,2026-02-18,Site Web
+PRD-0143,272.41,84,10,Vêtements,Nord,2026-02-18,Boutique
+PRD-0001,643.03,160,15,Alimentation,Centre,2026-02-19,Application Mobile
+PRD-0025,957.64,72,5,Maison,Bretagne,2026-02-19,Application Mobile
+PRD-0151,995.2,153,0,Beauté,Centre,2026-02-20,Site Web
+PRD-0247,246.3,88,20,Beauté,Bretagne,2026-02-20,Site Web
+PRD-0277,115.97,98,30,Vêtements,Bretagne,2026-02-21,Boutique
+PRD-0480,767.94,88,10,Livres,Nord,2026-02-21,Application Mobile
+PRD-0065,844.42,184,30,Beauté,PACA,2026-02-22,Boutique
+PRD-0212,786.23,71,30,Maison,Est,2026-02-23,Boutique
+PRD-0486,953.9,77,15,Électronique,Est,2026-02-24,Application Mobile
+PRD-0150,318.6,72,15,Vêtements,Bretagne,2026-02-24,Site Web
+PRD-0381,722.56,47,50,Vêtements,Sud,2026-02-25,Application Mobile
+PRD-0333,789.5,19,15,Vêtements,Normandie,2026-02-25,Boutique
+PRD-0410,341.84,30,20,Maison,Centre,2026-02-25,Application Mobile
+PRD-0493,441.48,138,0,Sport,Bretagne,2026-02-26,Boutique
+PRD-0311,899.94,60,0,Électronique,Nord,2026-02-26,Boutique
+PRD-0067,236.76,200,50,Beauté,Bretagne,2026-02-26,Site Web
+PRD-0104,541.6,108,15,Alimentation,Bretagne,2026-02-28,Application Mobile
+PRD-0319,163.01,60,10,Jouets,Est,2026-03-01,Site Web
+PRD-0340,312.14,74,0,Alimentation,PACA,2026-03-04,Site Web
+PRD-0192,285.76,180,30,Beauté,Ouest,2026-03-05,Boutique
+PRD-0371,543.07,148,10,Livres,Centre,2026-03-06,Site Web
+PRD-0384,414.31,163,0,Beauté,Sud,2026-03-08,Boutique
+PRD-0024,163.92,98,30,Électronique,Centre,2026-03-08,Application Mobile
+PRD-0282,211.56,110,30,Vêtements,Est,2026-03-08,Site Web
+PRD-0421,420.3,133,30,Livres,Centre,2026-03-09,Boutique
+PRD-0199,999.29,185,30,Jouets,Ouest,2026-03-11,Boutique
+PRD-0224,750.5,46,5,Alimentation,Centre,2026-03-11,Application Mobile
+PRD-0303,836.25,1,20,Vêtements,Nord,2026-03-11,Application Mobile
+PRD-0089,100.0,176,5,Vêtements,Centre,2026-03-11,Application Mobile
+PRD-0183,984.32,122,5,Jouets,Est,2026-03-11,Boutique
+PRD-0014,206.85,47,10,Sport,Ouest,2026-03-12,Site Web
+PRD-0352,540.85,113,50,Électronique,Est,2026-03-12,Application Mobile
+PRD-0320,930.58,68,5,Maison,Normandie,2026-03-13,Site Web
+PRD-0194,924.03,70,50,Alimentation,PACA,2026-03-14,Application Mobile
+PRD-0492,227.23,115,15,Alimentation,Sud,2026-03-14,Application Mobile
+PRD-0481,386.58,130,30,Alimentation,PACA,2026-03-15,Site Web
+PRD-0076,401.68,97,30,Maison,Ouest,2026-03-16,Site Web
+PRD-0187,863.06,109,10,Vêtements,PACA,2026-03-16,Boutique
+PRD-0073,877.6,80,0,Sport,PACA,2026-03-17,Application Mobile
+PRD-0113,505.58,112,50,Jouets,PACA,2026-03-18,Site Web
+PRD-0434,958.39,74,0,Vêtements,Ouest,2026-03-18,Site Web
+PRD-0206,221.61,177,10,Vêtements,Centre,2026-03-20,Application Mobile
+PRD-0008,96.07,7,15,Beauté,Île-de-France,2026-03-20,Application Mobile
+PRD-0461,86.71,181,30,Sport,Bretagne,2026-03-20,Boutique
+PRD-0315,782.32,180,15,Jouets,Nord,2026-03-21,Site Web
+PRD-0184,107.43,142,30,Alimentation,Bretagne,2026-03-22,Application Mobile
+PRD-0374,673.92,194,5,Maison,Centre,2026-03-22,Boutique
+PRD-0309,798.16,75,15,Vêtements,Île-de-France,2026-03-22,Site Web
+PRD-0227,507.82,182,15,Maison,Est,2026-03-22,Boutique
+PRD-0335,873.45,43,5,Sport,Bretagne,2026-03-23,Boutique
+PRD-0013,36.27,119,0,Livres,Centre,2026-03-23,Boutique
+PRD-0064,687.77,192,10,Vêtements,Bretagne,2026-03-23,Site Web
+PRD-0402,221.56,195,15,Vêtements,Est,2026-03-24,Boutique
+PRD-0405,798.06,117,10,Maison,PACA,2026-03-25,Site Web
+PRD-0091,118.55,31,10,Électronique,Normandie,2026-03-25,Site Web
+PRD-0002,34.76,137,10,Vêtements,PACA,2026-03-25,Application Mobile
+PRD-0087,997.56,198,0,Sport,Normandie,2026-03-26,Boutique
+PRD-0003,282.28,7,50,Jouets,Sud,2026-03-26,Application Mobile
+PRD-0086,227.13,179,50,Jouets,Sud,2026-03-27,Site Web
+PRD-0463,279.0,107,20,Électronique,Île-de-France,2026-03-28,Site Web
+PRD-0161,80.28,105,50,Livres,Sud,2026-03-29,Application Mobile
+PRD-0280,608.78,77,50,Électronique,Sud,2026-04-01,Boutique
+PRD-0096,387.8,110,0,Alimentation,PACA,2026-04-02,Application Mobile
+PRD-0231,89.31,12,50,Livres,Nord,2026-04-03,Boutique
+PRD-0396,294.04,106,30,Livres,Normandie,2026-04-03,Site Web
+PRD-0435,522.78,113,10,Beauté,Nord,2026-04-04,Site Web
+PRD-0375,370.58,45,20,Livres,Nord,2026-04-04,Application Mobile
+PRD-0248,401.83,48,10,Jouets,Ouest,2026-04-04,Boutique
+PRD-0392,619.36,172,5,Jouets,Île-de-France,2026-04-04,Boutique
+PRD-0102,723.51,88,5,Jouets,Normandie,2026-04-06,Site Web
+PRD-0317,412.31,19,0,Alimentation,Bretagne,2026-04-06,Boutique
+PRD-0186,345.91,89,20,Alimentation,Île-de-France,2026-04-06,Boutique
+PRD-0336,860.01,79,0,Vêtements,PACA,2026-04-09,Boutique
+PRD-0478,698.57,198,10,Vêtements,Est,2026-04-09,Site Web
+PRD-0267,615.56,31,0,Sport,Centre,2026-04-10,Site Web
+PRD-0180,472.35,170,20,Alimentation,PACA,2026-04-10,Application Mobile
+PRD-0062,643.6,156,20,Alimentation,Ouest,2026-04-10,Application Mobile
+PRD-0437,256.71,125,5,Livres,Bretagne,2026-04-11,Boutique
+PRD-0262,880.48,39,20,Beauté,Bretagne,2026-04-12,Site Web
+PRD-0195,448.7,79,5,Vêtements,Centre,2026-04-12,Site Web
+PRD-0358,272.81,83,20,Livres,Bretagne,2026-04-13,Site Web
+PRD-0133,879.23,63,20,Maison,Est,2026-04-13,Site Web
+PRD-0446,616.53,142,10,Maison,Île-de-France,2026-04-16,Application Mobile
+PRD-0174,786.77,76,15,Électronique,Est,2026-04-16,Boutique
+PRD-0459,630.48,75,50,Sport,Normandie,2026-04-17,Boutique
+PRD-0275,142.95,199,20,Sport,Est,2026-04-17,Site Web
+PRD-0391,903.78,83,0,Livres,Normandie,2026-04-17,Site Web
+PRD-0120,161.31,138,5,Maison,Nord,2026-04-17,Application Mobile
+PRD-0383,316.19,112,5,Maison,Nord,2026-04-18,Application Mobile
