@@ -38,21 +38,21 @@ Automatiser l'analyse des ventes d'une entreprise e-commerce en remplaçant les 
 - Git
 
 ### **Étapes d'Installation**
- 1. Cloner
+ 1. **Cloner:**
 git clone https://github.com/102-rou/pfa_ventes.git
 cd pfa_ventes
 
- 2. Environnement virtuel
+ 2. **Environnement virtuel:**
 python -m venv venv
 venv\Scripts\activate   
 
- 3. Dépendances
+ 3. **Dépendances:**
 pip install -r requirements.txt
 
- 4. Générer les données
+ 4. **Générer les données:**
 python generate_csv.py
 
- 5. Lancer
+ 5. **Lancer:**
 streamlit run app_mobile.py
 
 ## 📊 Résultats:
