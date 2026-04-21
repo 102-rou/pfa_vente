@@ -1,0 +1,71 @@
+name: 🚀 Deploy PFA Dashboard
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v4
+    
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.14.3'
+    
+    - name: 📦 Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas streamlit plotly faker scikit-learn
+    
+    - name: 🧪 Run tests (verify CSV generation)
+      run: |
+        python generate_csv.py
+        python -c "import pandas as pd; df=pd.read_csv('ventes.csv'); assert len(df)>0"
+    
+    - name: 📊 Generate results
+      run: |
+        python -c "
+import pandas as pd
+df = pd.read_csv('ventes.csv')
+df['CA_Brut'] = df['Prix'] * df['Quantite']
+df['CA_Net'] = df['CA_Brut'] * (1 - df['Remise']/100)
+df['TVA'] = df['CA_Net'] * 0.20
+df.to_csv('resultats_final.csv', index=False)
+print(f'✅ Résultats générés - CA Total: {df[CA_Net].sum():,.2f} €')
+"
+    
+    - name: 📈 Upload results as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: resultats
+        path: resultats_final.csv
+    
+    - name: 🏷️ Create badge with stats
+      run: |
+        CA_TOTAL=$(python -c "import pandas as pd; df=pd.read_csv('ventes.csv'); df['CA_Net']=df['Prix']*df['Quantite']*(1-df['Remise']/100); print(int(df['CA_Net'].sum()))")
+        echo "CA_TOTAL=$CA_TOTAL" >> $GITHUB_ENV
+    
+    - name: 📝 Update README with latest stats
+      run: |
+        sed -i "s/CA_TOTAL_PLACEHOLDER/${{ env.CA_TOTAL }}/g" README.md || true
+    
+    - name: 🚀 Deploy to Streamlit Cloud (optional)
+      run: |
+        echo "💡 Pour déployer sur Streamlit Cloud:"
+        echo "1. Va sur https://streamlit.io/cloud"
+        echo "2. Connecte ton GitHub"
+        echo "3. Sélectionne ce repository"
+        echo "4. Clique sur Deploy"
+    
+    - name: ✅ Summary
+      run: |
+        echo "## 🎉 Déploiement terminé !" >> $GITHUB_STEP_SUMMARY
+        echo "- 📊 CA Total: ${{ env.CA_TOTAL }} €" >> $GITHUB_STEP_SUMMARY
+        echo "- 🔗 Accès: https://ton-projet.streamlit.app" >> $GITHUB_STEP_SUMMARY
