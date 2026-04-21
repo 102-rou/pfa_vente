@@ -39,36 +39,36 @@ Automatiser l'analyse des ventes d'une entreprise e-commerce en remplaçant les 
 
 ### **Étapes d'Installation**
  1. **Cloner:**
-git clone https://github.com/102-rou/pfa_ventes.git
-cd pfa_ventes
+ - git clone https://github.com/102-rou/pfa_ventes.git
+ - cd pfa_ventes
 
  2. **Environnement virtuel:**
-python -m venv venv
-venv\Scripts\activate   
+ - python -m venv venv
+ - venv\Scripts\activate   
 
  3. **Dépendances:**
-pip install -r requirements.txt
+ - pip install -r requirements.txt
 
  4. **Générer les données:**
-python generate_csv.py
+ - python generate_csv.py
 
  5. **Lancer:**
-streamlit run app_mobile.py
+ - streamlit run app_mobile.py
 
 ## 📊 Résultats:
 
-Dashboard mobile interactif
-Graphiques statistiques (histogramme, barres,..)
-Export CSV automatique
-Recommandations stratégiques
+- Dashboard mobile interactif
+- Graphiques statistiques (histogramme, barres,..)
+- Export CSV automatique
+- Recommandations stratégiques
 
 ## 🛠️ Technologies:
-Python 3.14
-Pandas 
-Faker
-Streamlit 
-Plotly
-Git & GitHub
+- Python 3.14
+- Pandas 
+- Faker
+- Streamlit 
+- Plotly
+- Git & GitHub
 
 ## 👨‍💻 Auteur
 Roudayna Marweni - Projet de Fin d'Année
