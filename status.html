@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PFA Ventes - Status</title>
+    <style>
+        body { font-family: monospace; padding: 20px; background: #0e1117; color: white; }
+        .green { color: #00ff00; }
+        .yellow { color: #ffff00; }
+    </style>
+</head>
+<body>
+    <h1>📊 PFA Ventes - Status Dashboard</h1>
+    
+    <div id="status">
+        <p>🔄 Chargement des données...</p>
+    </div>
+    
+    <script>
+        async function checkStatus() {
+            try {
+                const response = await fetch('https://api.github.com/repos/102-rou/pfa-ventes/actions/runs');
+                const data = await response.json();
+                
+                const lastRun = data.workflow_runs[0];
+                const status = lastRun.status === 'completed' ? '✅' : '🔄';
+                const conclusion = lastRun.conclusion === 'success' ? 'success' : 'failed';
+                
+                document.getElementById('status').innerHTML = `
+                    <div class="card">
+                        <h2>${status} Dernier déploiement</h2>
+                        <p>📅 Date: ${lastRun.created_at}</p>
+                        <p>⏱️ Durée: ${Math.round(lastRun.run_duration_ms / 1000)} secondes</p>
+                        <p class="${conclusion}">📊 Statut: ${conclusion.toUpperCase()}</p>
+                        <p>🔗 <a href="${lastRun.html_url}">Voir les logs</a></p>
+                    </div>
+                    <div class="card">
+                        <h3>📈 Statistiques</h3>
+                        <p>📦 Nombre de commits: ${data.total_count}</p>
+                        <p>🟢 Succès: ${data.workflow_runs.filter(r => r.conclusion === 'success').length}</p>
+                        <p>🔴 Échecs: ${data.workflow_runs.filter(r => r.conclusion === 'failure').length}</p>
+                    </div>
+                `;
+            } catch(e) {
+                document.getElementById('status').innerHTML = '<p>❌ Impossible de charger le status</p>';
+            }
+        }
+        
+        checkStatus();
+        setInterval(checkStatus, 30000);
+    </script>
+</body>
+</html>
