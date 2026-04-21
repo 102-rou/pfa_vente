@@ -1,14 +1,4 @@
-<div align="center">
-
 # 📊 PFA - Automatisation des Ventes
-
-[![GitHub Actions](https://github.com/102-rou/pfa-ventes/actions/workflows/deploy.yml/badge.svg)](https://github.com/102-rou/pfa-ventes/actions)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pfa_ventes.streamlit.app)
-[![Python 3.14.3](https://img.shields.io/badge/Python-3.10-blue.svg)](https://python.org)
-[![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
-</div>
-
 
 ## 🎯 Objectif
 Automatiser l'analyse des ventes d'une entreprise e-commerce en remplaçant les tableurs Excel par un script Python performant avec dashboard mobile interactif.
@@ -23,50 +13,52 @@ Automatiser l'analyse des ventes d'une entreprise e-commerce en remplaçant les 
 
 ## 📁 Structure du Projet
 - 📁 PFA_VENTES
-    -📁 .github\workflows
+    - 📁 .github\workflows
         - 📄 deploy.yml
     - 📁 .vscode
-    - 📄 generate_csv.py
-    - 📄 analyse_vente.py
-    - 📄 mobile_app.py  
-    - 📄 README.md
-    - 📄 requirement.txt
-    - 📄 .gitignore
-    - 📄 ventes.csv
-    - 📄 status.html
+        - 📄 generate_csv.py
+        - 📄 analyse_vente.py
+        - 📄 mobile_app.py  
+        - 📄 README.md
+        - 📄 requirement.txt
+        - 📄 .gitignore
+        - 📄 ventes.csv
+        - 📄 status.html
 ## 📌 Documentation
+
 - [Streamlit App](https://pfa_ventes.streamlit.app)
-- [Documentation](https://github.com/102-rou/pfa_ventes/blob/main/Documentation.md)
+
 
 
 ## 🚀 Installation
+
 ### **Prérequis**
 - Python 3.8 ou supérieur
 - pip (gestionnaire de paquets Python)
 - Git
 
 ### **Étapes d'Installation**
-# 1. Cloner
+ 1. Cloner
 git clone https://github.com/102-rou/pfa_ventes.git
 cd pfa_ventes
 
-# 2. Environnement virtuel
+ 2. Environnement virtuel
 python -m venv venv
 venv\Scripts\activate   
 
-# 3. Dépendances
+ 3. Dépendances
 pip install -r requirements.txt
 
-# 4. Générer les données
+ 4. Générer les données
 python generate_csv.py
 
-# 5. Lancer
+ 5. Lancer
 streamlit run app_mobile.py
 
 ## 📊 Résultats:
 
 Dashboard mobile interactif
-Graphiques statistiques (histogramme, camembert, barres)
+Graphiques statistiques (histogramme, barres,..)
 Export CSV automatique
 Recommandations stratégiques
 
