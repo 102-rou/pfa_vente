@@ -24,9 +24,9 @@ Automatiser l'analyse des ventes d'une entreprise e-commerce en remplaçant les 
         - 📄 .gitignore
         - 📄 ventes.csv
         - 📄 status.html
-## 📌 Documentation
+## 📌 Application Web
 
-- [Streamlit App](https://pfa_ventes.streamlit.app)
+- [https://github.com/102-rou/PFA_VENTES](https://pfavente-gyx58qbzl3yrvg6m59yz65.streamlit.app/)
 
 
 
