@@ -72,8 +72,8 @@ Automatiser l'analyse des ventes d'une entreprise e-commerce en remplaçant les 
 
 ## 👨‍💻 Auteur
 - Roudayna Marweni
-- Amal chaali
-- Mohammed amine Saadallah
+- Amal Chaalali
+- Mohamed Amine Saadallah
 
 ## 📝 Licence
 MIT
