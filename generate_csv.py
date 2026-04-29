@@ -7,7 +7,7 @@ fake = Faker('fr_FR')
 random.seed(42)  # Pour résultats reproductibles
 
 # ========== CONFIGURATION ==========
-NB_PRODUITS = 5000
+NB_PRODUITS = 0
 
 # ========== LISTES POUR VARIABLES ==========
 CATEGORIES = ['Électronique', 'Vêtements', 'Maison', 'Sport', 'Beauté', 'Alimentation', 'Jouets', 'Livres']
