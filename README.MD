@@ -26,8 +26,8 @@ Automatiser l'analyse des ventes d'une entreprise e-commerce en remplaçant les 
         - 📄 status.html
 ## 📌 Application Web
 
-- [https://github.com/102-rou/PFA_VENTES](https://pfavente-gyx58qbzl3yrvg6m59yz65.streamlit.app/)
-
+- [Dashboard PFA_VENTES](https://pfavente-gyx58qbzl3yrvg6m59yz65.streamlit.app/)
+- [Application SalesFlow](https://salesflow-app-nqms9juetgm5u2x4wgqr95.streamlit.app/)
 
 
 ## 🚀 Installation
@@ -71,7 +71,9 @@ Automatiser l'analyse des ventes d'une entreprise e-commerce en remplaçant les 
 - Git & GitHub
 
 ## 👨‍💻 Auteur
-Roudayna Marweni - Projet de Fin d'Année
+Roudayna Marweni
+Amal chaali
+Mohammed amine Saadallah
 
 ## 📝 Licence
 MIT
