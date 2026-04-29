@@ -71,9 +71,9 @@ Automatiser l'analyse des ventes d'une entreprise e-commerce en remplaçant les 
 - Git & GitHub
 
 ## 👨‍💻 Auteur
-Roudayna Marweni
-Amal chaali
-Mohammed amine Saadallah
+- Roudayna Marweni
+- Amal chaali
+- Mohammed amine Saadallah
 
 ## 📝 Licence
 MIT
